@@ -1,0 +1,19 @@
+{
+  "name": "isyscore-utils.string",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "肖波 <xiaob@isyscore.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/isyscore-utils.string.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
