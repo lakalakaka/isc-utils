@@ -11,5 +11,4 @@
         "release": "rimraf ./lib && npm run build && npm pub",
         "dev": "tsc --watch"
     }
-    
 }
